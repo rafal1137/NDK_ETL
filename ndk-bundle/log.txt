@@ -1,0 +1,1 @@
+/home/rafal/Android/Sdk/ndk-bundle
